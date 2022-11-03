@@ -1,6 +1,7 @@
 # db-jpa
-Boilerplate code "Spring JPA Repository - Like". Code base on Hibernate with purpose use it for project that not using Spring Boot.
+Boilerplate code "Spring JPA Repository - Like". 
 
+Code base on Hibernate with purpose use it for project that not using Spring Boot.
 Example:
 
 Model Object: 
